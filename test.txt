@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 8C2B-C03E
+
+ Directory of C:\Users\Shail\Desktop\GitFolder
+
+10/11/2019  11:11 AM    <DIR>          .
+10/11/2019  11:11 AM    <DIR>          ..
+10/11/2019  11:11 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  40,717,795,328 bytes free
